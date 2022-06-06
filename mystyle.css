@@ -1,0 +1,48 @@
+div
+{
+    border-radius: 5px;
+    }
+#title
+{
+    position: fixed;
+    height:25px;
+    width: 98%;
+    background-color: #FFE681;
+    margin-bottom: 10px
+    }
+
+#name {
+      float:left;
+	margin-left: 20px;
+	padding-bottom: 10px;
+	font-size: 16px;
+	color: #ffffff;
+}
+
+    
+#footer
+{
+
+	height: 25px; /*設定footer本身高度*/
+	background-color: #FFE681;
+
+    }
+    
+
+table
+{
+    border: 1px dashed black;
+    }
+td
+{
+    padding: 2px;
+    border: 1px solid #A3A3FF;
+    }
+
+
+
+
+
+
+
+
