@@ -1,8 +1,8 @@
-.div
+div
 {
     border-radius: 5px;
     }
-.title
+title
 {
     position: fixed;
     height:25px;
@@ -10,7 +10,7 @@
     background-color: #FFE681;
     margin-bottom: 10px
     }
-.name {
+name {
       float:left;
 	margin-left: 20px;
 	padding-bottom: 10px;
@@ -19,7 +19,7 @@
 }
 
     
-.footer
+footer
 {
 
 	height: 25px; /*設定footer本身高度*/
